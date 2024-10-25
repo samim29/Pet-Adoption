@@ -1,4 +1,4 @@
-Pet Adoption Website
+<h1>Pet Adoption Website</h1>
 Welcome to the Pet Adoption Website repository! This project is a responsive webpage designed to promote pet adoption by showcasing different pets available for adoption. It is a simple, yet functional website created using HTML and CSS.
 
 🐾 Project Overview
