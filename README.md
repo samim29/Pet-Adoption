@@ -6,14 +6,14 @@ This website displays profiles of different pets (rabbits, cats, and dogs) who a
 
 The project is designed to:
 
-Showcase different adoptable pets.
-Provide basic information about each pet.
-Encourage users to adopt by making the site user-friendly and appealing.
+Showcase different adoptable pets.<br>
+Provide basic information about each pet.<br>
+Encourage users to adopt by making the site user-friendly and appealing.<br>
 
 
-🖥️ Tech Stack
+🖥️ Tech Stack<br>
 HTML5: Used for the structure and content of the webpage.<br>
-CSS3: Used for styling and layout design, including fonts, colors, and positioning.
+CSS3: Used for styling and layout design, including fonts, colors, and positioning.<br>
 
 
 ✨ Features
