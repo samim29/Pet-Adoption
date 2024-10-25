@@ -12,11 +12,11 @@ Encourage users to adopt by making the site user-friendly and appealing.
 
 
 🖥️ Tech Stack
-HTML5: Used for the structure and content of the webpage.
+HTML5: Used for the structure and content of the webpage.<br>
 CSS3: Used for styling and layout design, including fonts, colors, and positioning.
 
 
 ✨ Features
-Clean, simple, and responsive design.
-Easy navigation with buttons for Home, Login, and Signup.
+Clean, simple, and responsive design.<br>
+Easy navigation with buttons for Home, Login, and Signup.<br>
 Profile cards for each pet with pictures and descriptions.
