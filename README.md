@@ -19,4 +19,9 @@ CSS3: Used for styling and layout design, including fonts, colors, and positioni
 ✨ Features
 Clean, simple, and responsive design.<br>
 Easy navigation with buttons for Home, Login, and Signup.<br>
-Profile cards for each pet with pictures and descriptions.
+Profile cards for each pet with pictures and descriptions.<br><br>
+
+🔧 Future Enhancements<br>
+Add a backend to manage user logins and pet data.<br>
+Create a database to store available pets for adoption.<br>
+Implement a search and filter feature to help users find pets based on their preferences.
